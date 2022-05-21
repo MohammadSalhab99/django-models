@@ -1,1 +1,1 @@
-PR link : url is here 
+PR link : https://github.com/MohammadSalhab99/django-models/pull/1
